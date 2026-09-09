@@ -1,3 +1,7 @@
+# Name: Ellie Khoo
+# Period: AM
+# Theme Park Admission & Ride Eligibility System
+
 #introduce program to user
 print()
 print("Welcome to the Python Adventure Park!")
