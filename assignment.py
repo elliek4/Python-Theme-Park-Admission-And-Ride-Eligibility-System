@@ -88,7 +88,7 @@ def check_vip(ticket, member, guest_age):
     else:
         return "STANDARD ACCESS"
         
-guest_status = check_vip(ticket_type, park_member, age)
+guest_status = check_vip(ticket_type, park_member, age) #stores check_vip of guest's status in guest_status
 
 #display final guest report: calculated information from user input and functions
 print()
